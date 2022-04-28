@@ -19,7 +19,7 @@ package request
 import (
 	"strings"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/domain/message"
+	"github.com/wurenquyu/dingtalk/v2/domain/message"
 )
 
 // CorpConvMessage 工作通知

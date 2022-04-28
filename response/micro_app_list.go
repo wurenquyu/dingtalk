@@ -16,7 +16,7 @@
 
 package response
 
-import "github.com/zhaoyunxing92/dingtalk/v2/domain"
+import "github.com/wurenquyu/dingtalk/v2/domain"
 
 // MicroAppList 小程序列表
 type MicroAppList struct {

@@ -22,11 +22,11 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/policy"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/spaces"
-	"github.com/zhaoyunxing92/dingtalk/v2/request"
-	"github.com/zhaoyunxing92/dingtalk/v2/response"
+	"github.com/wurenquyu/dingtalk/v2/constant"
+	"github.com/wurenquyu/dingtalk/v2/constant/policy"
+	"github.com/wurenquyu/dingtalk/v2/constant/spaces"
+	"github.com/wurenquyu/dingtalk/v2/request"
+	"github.com/wurenquyu/dingtalk/v2/response"
 )
 
 // CreateDriveSpaces 新建空间

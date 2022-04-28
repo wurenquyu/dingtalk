@@ -21,7 +21,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/employee"
+	"github.com/wurenquyu/dingtalk/v2/constant/employee"
 )
 
 func TestNewHrmCreateEmployee(t *testing.T) {

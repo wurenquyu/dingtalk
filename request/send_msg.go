@@ -17,7 +17,7 @@
 package request
 
 import (
-	"github.com/zhaoyunxing92/dingtalk/v2/domain/message"
+	"github.com/wurenquyu/dingtalk/v2/domain/message"
 )
 
 type SendMessage struct {

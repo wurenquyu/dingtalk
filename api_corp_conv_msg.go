@@ -21,9 +21,9 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant"
-	"github.com/zhaoyunxing92/dingtalk/v2/request"
-	"github.com/zhaoyunxing92/dingtalk/v2/response"
+	"github.com/wurenquyu/dingtalk/v2/constant"
+	"github.com/wurenquyu/dingtalk/v2/request"
+	"github.com/wurenquyu/dingtalk/v2/response"
 )
 
 // SendTemplateMessage 使用模板发送工作通知消息

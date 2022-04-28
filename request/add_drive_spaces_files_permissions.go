@@ -17,8 +17,8 @@
 package request
 
 import (
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/member"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/role"
+	"github.com/wurenquyu/dingtalk/v2/constant/member"
+	"github.com/wurenquyu/dingtalk/v2/constant/role"
 )
 
 type AddDriveSpacesFilesPermissions struct {

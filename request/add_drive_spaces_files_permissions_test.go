@@ -20,8 +20,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/member"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/role"
+	"github.com/wurenquyu/dingtalk/v2/constant/member"
+	"github.com/wurenquyu/dingtalk/v2/constant/role"
 )
 
 func TestNewAddDriveSpacesFilesPermissions(t *testing.T) {

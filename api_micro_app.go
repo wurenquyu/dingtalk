@@ -22,10 +22,10 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant"
-	"github.com/zhaoyunxing92/dingtalk/v2/domain"
-	"github.com/zhaoyunxing92/dingtalk/v2/request"
-	"github.com/zhaoyunxing92/dingtalk/v2/response"
+	"github.com/wurenquyu/dingtalk/v2/constant"
+	"github.com/wurenquyu/dingtalk/v2/domain"
+	"github.com/wurenquyu/dingtalk/v2/request"
+	"github.com/wurenquyu/dingtalk/v2/response"
 )
 
 // GetMicroAppList 获取应用列表

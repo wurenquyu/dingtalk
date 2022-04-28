@@ -19,7 +19,7 @@ package request
 import (
 	"encoding/json"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/priority"
+	"github.com/wurenquyu/dingtalk/v2/constant/priority"
 )
 
 // CreateTodo 新增钉钉待办任务

@@ -21,11 +21,11 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/language"
+	"github.com/wurenquyu/dingtalk/v2/constant/language"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant"
-	"github.com/zhaoyunxing92/dingtalk/v2/request"
-	"github.com/zhaoyunxing92/dingtalk/v2/response"
+	"github.com/wurenquyu/dingtalk/v2/constant"
+	"github.com/wurenquyu/dingtalk/v2/request"
+	"github.com/wurenquyu/dingtalk/v2/response"
 )
 
 // CreateDept 创建部门

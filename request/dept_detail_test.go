@@ -20,7 +20,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/language"
+	"github.com/wurenquyu/dingtalk/v2/constant/language"
 )
 
 func TestNewDeptDetail(t *testing.T) {

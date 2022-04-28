@@ -19,7 +19,7 @@ package request
 import (
 	"testing"
 
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/attendance"
+	"github.com/wurenquyu/dingtalk/v2/constant/attendance"
 )
 
 func TestNewCreateAttendanceGroup(t *testing.T) {

@@ -17,7 +17,7 @@
 package request
 
 import (
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/policy"
+	"github.com/wurenquyu/dingtalk/v2/constant/policy"
 )
 
 type MoveDriveSpacesFiles struct {

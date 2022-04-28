@@ -23,10 +23,10 @@ import (
 	"time"
 
 	"github.com/pkg/errors"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant"
-	"github.com/zhaoyunxing92/dingtalk/v2/crypto"
-	"github.com/zhaoyunxing92/dingtalk/v2/request"
-	"github.com/zhaoyunxing92/dingtalk/v2/response"
+	"github.com/wurenquyu/dingtalk/v2/constant"
+	"github.com/wurenquyu/dingtalk/v2/crypto"
+	"github.com/wurenquyu/dingtalk/v2/request"
+	"github.com/wurenquyu/dingtalk/v2/response"
 )
 
 // GetAuthInfo 获取企业授权信息

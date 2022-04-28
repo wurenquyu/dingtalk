@@ -20,8 +20,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/language"
-	"github.com/zhaoyunxing92/dingtalk/v2/constant/order"
+	"github.com/wurenquyu/dingtalk/v2/constant/language"
+	"github.com/wurenquyu/dingtalk/v2/constant/order"
 )
 
 func TestNewDeptDetailUserInfo(t *testing.T) {
