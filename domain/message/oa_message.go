@@ -58,7 +58,7 @@ type Body struct {
 	MediaId string `json:"image,omitempty" validate:"omitempty,startswith=@"`
 
 	// 单行富文本信息
-	Rich *Rich `json:"rich,omitempty"`
+	*Rich `json:"rich,omitempty"`
 
 	// 自定义的作者名字。
 	Author string `json:"author,omitempty"`
@@ -82,7 +82,7 @@ type oa struct {
 	PcMessageUrl string `json:"pc_message_url" validate:"omitempty,url"`
 
 	// 消息状态栏
-	StatusBar `json:"status_bar,omitempty"`
+	*StatusBar `json:"status_bar,omitempty"`
 
 	// 消息头部内容。
 	oaMessageHeader `json:"head,omitempty" validate:"required"`
