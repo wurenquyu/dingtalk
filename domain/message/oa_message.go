@@ -58,7 +58,7 @@ type Body struct {
 	MediaId string `json:"image,omitempty" validate:"omitempty,startswith=@"`
 
 	// 单行富文本信息
-	Rich Rich `json:"rich,omitempty"`
+	Rich *Rich `json:"rich,omitempty"`
 
 	// 自定义的作者名字。
 	Author string `json:"author,omitempty"`
